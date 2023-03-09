@@ -56,4 +56,4 @@ If you have any questions or concerns about the Weather Dashboard project, pleas
 
 ## Screenshot
 
-![FrontEnd](./SS-WD.png)
+![FrontEnd](./assets/SS-WD.png)
